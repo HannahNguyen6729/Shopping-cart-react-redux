@@ -20,4 +20,6 @@ My website was mainly inspired from Shopee
 In the project directory, you can run:
 ### `npm start`
 
+![aaaa](https://user-images.githubusercontent.com/81440768/172705800-c3582698-8f1c-4521-9898-a56aff9c104b.png)
+
 ![aa](https://user-images.githubusercontent.com/81440768/172705173-63fc9c13-a040-43fd-adc8-0e5b6f65bb82.png)
