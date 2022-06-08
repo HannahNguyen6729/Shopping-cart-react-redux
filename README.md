@@ -1,6 +1,26 @@
+# Shopping cart
+URL: https://shopping-cart-react-redux.surge.sh/
+
+# What to expect
+Users should be able to:
+  - Add items to the cart
+  - Change the quantity of items
+  - Delete items
+The app calculate the total amount of money customers need to pay
+
+# Front-end
+Mainly built with React, redux and MDBootstrap
+
+# Deployment
+Deployment through Surge
+
+# Acknowledgement
+My website was mainly inspired from Shopee
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
